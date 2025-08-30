@@ -21,6 +21,9 @@ const Hero = () => {
             <div className="border h-[5em]">
 
             </div>
+            <div className="border h-[5em]">
+
+            </div>
          </div>
       </div>
    )
