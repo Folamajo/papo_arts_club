@@ -2,9 +2,9 @@ import React from 'react'
 
 const Header = () => {
    return (
-      <div className='border border-dashed flex items-center justify-center gap-[10em] py-4'>
+      <div className='border border-dashed flex items-center justify-center gap-[10em] '>
          <div>
-            Logo
+            <img src='/pac_logo.png' className='w-[30em] border'/>
          </div>
 
          <div >
