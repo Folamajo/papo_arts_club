@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
    return (
-      <div className="border w-[60em] flex">
+      <div className="border  flex mt-10">
          <div className =" headline border w-[40em] h-[20em]">
             <img />
 

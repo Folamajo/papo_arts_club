@@ -6,11 +6,15 @@ import Footer from './components/Footer'
 
 const HomePage = () => {
    return (
-      <div className="flex flex-col items-center">
-         <Header />
-         <Hero />
+      <div className="border flex flex-col items-center justify-center ">
+         <div className= 'border w-[100em]'>
+            <Header />
+            <Hero />
+         </div>
+         {/* <Header />
+         
          <LatestAndPopular />
-         <Footer />
+         <Footer /> */}
       </div>
    )
 }
